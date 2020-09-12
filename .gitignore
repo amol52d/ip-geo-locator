@@ -1,0 +1,7 @@
+# .gitignore
+__pycache__
+.idea
+/venv/
+/venv/bin/
+/venv/lib/python3.7/site-packages/
+/build/
